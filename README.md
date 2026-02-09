@@ -1,1 +1,2 @@
-# Git conflict challenge - edited locally
+# Git conflict challenge
+Edited locally and on GitHub
