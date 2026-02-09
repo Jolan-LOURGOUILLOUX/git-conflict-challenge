@@ -1,1 +1,1 @@
-# git-conflict-challenge
+# Git conflict challenge - edited on GitHub
